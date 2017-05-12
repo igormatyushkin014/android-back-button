@@ -29,7 +29,7 @@ yarn add android-back-button
 
 Simply add `AndroidBackButton` component to scene's layout:
 
-```
+```javascript
 import React, {
     Component
 } from 'react';
