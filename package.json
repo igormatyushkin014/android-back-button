@@ -1,0 +1,24 @@
+{
+  "name": "android-back-button",
+  "version": "1.0.0",
+  "description": "React Native module for hardware back button on Android devices",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igormatyushkin014/android-back-button.git"
+  },
+  "keywords": [
+      "react-native",
+      "android",
+      "back-button"
+  ],
+  "author": "Igor Matyushkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igormatyushkin014/android-back-button/issues"
+  },
+  "homepage": "https://github.com/igormatyushkin014/android-back-button"
+}
